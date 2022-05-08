@@ -1,3 +1,7 @@
-# Headline
+# 个人博客
 
-> An awesome project.
+> 穷其所有，终于可以建立自己的个人知识管理系统了！
+
+## [`Python`](/Python/)
+
+- [ ] 整理`json`库的常见用法
